@@ -7,7 +7,7 @@
 				"ejs": "1.0.0",
 				"express": "4.8.7",
 				"express-session": "1.7.6",
-				"mysql": "2.4.3",
+				"mysql": "2.14.0",
 				"passport": "0.2.1",
 				"passport-facebook": "^3.0.0"
 		}
